@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cloud & DevOpsProjects:</h2>
 
 - <b>Python for DevOps</b>
-  - [Jira Ticketing](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Jira Ticketing](https://github.com/samuelmag/JIRA-Ticket)
+- <b>BoTo3 (React, NodeJS, Azure, and Machine Learning Component)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
