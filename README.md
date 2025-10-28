@@ -28,9 +28,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/samuel-magunda-a0ab79243/
-[twitter]: 
-[youtube]: 
-[instagram]: 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
