@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Certifications</b>
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/224236ef-9ddb-4c0e-8ec6-b9ca1be1c1d7)
-  - [AWS Certified Cloud Practitioner](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e28ae27d-2e87-47ad-9030-4cf17561f9b9)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
