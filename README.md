@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud & DevOpsProjects:</h2>
 
 - <b>Python for DevOps</b>
-  - [Jira Ticketing](https://github.com/samuelmag/JIRA-Ticket)
+  - [Jira Ticketing](https://github.com/samuelmag/jira_ticket)
 - <b>BoTo3 (React, NodeJS, Azure, and Machine Learning Component)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
